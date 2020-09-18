@@ -38,5 +38,14 @@
    - JavaScript
    <details>
   <summary>The right answer!</summary>
-   Convert JavaScript code from ECMAScript 6 standard to ECMAScript 5 
+   TypeScript
   </details>
+  
+  5- Are browsers able to interpret TypeScript directly (1 point):
+   - Yes
+   - no
+   <details>
+  <summary>The right answer!</summary>
+   TypeScript
+  </details>
+  
