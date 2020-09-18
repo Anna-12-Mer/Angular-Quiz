@@ -56,10 +56,18 @@
    - HTML templates
    - The virtual DOM
    - Custom items
-    <details>
+       <details>
   <summary>The right answer!</summary>
          * HTML imports
          * The shadow DOM
          * HTML templates
          * Custom items
-   </details>
+  </details>
+  
+  7- Is it possible to have multiple shadow DOMs on a single web page? (1 point):
+   - Yes
+   - no
+       <details>
+  <summary>The right answer!</summary>
+   Yes
+  </details>
