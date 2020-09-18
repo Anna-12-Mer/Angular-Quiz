@@ -2,7 +2,7 @@
 ![Angular](https://loga-engineering.com/wp-content/uploads/2019/10/angular-logo.png)
 
 # 25 questions to test your knowledge of the Google Framework!
-# Beginner ...
+
   1- Angular is a framework oriented… (1 point): 
    - Components
    - Modules
@@ -80,8 +80,7 @@
    <details>
   <summary>The right answer!</summary>
    The root module
-  </details>
-# Intermediate ... 
+  </details> 
 
   10 - Which of the lists below corresponds to the methods available to interact with the lifecycle of a component, in the chronological order they are called by Angular? (2 point):
    - ngOnInit - ngAfterViewInit - ngOnChanges - ngOnDestroy
@@ -91,4 +90,27 @@
    <details>
   <summary>The right answer!</summary>
    ngOnChanges - ngOnInit - ngAfterViewInit - ngOnDestroy
+  </details>
+  
+
+  11- We can develop the template of a component: (1 point):
+   - On multiple lines via component annotation
+   - In a specific file, separate from the component.
+   - In a special service that only manages the application templates.
+   - On a single line, in the annotation of the component.
+   <details>
+  <summary>The right answer!</summary>
+   - On multiple lines via component annotation.
+   - In a specific file, separate from the component.
+   - On a single line, in the annotation of the component.
+  </details>   
+  
+  12- What do you call displaying a property of a component in its template? (1 point):
+   - Superposition
+   - Extrapolation
+   - Intra-link
+   - Interpolation
+   <details>
+  <summary>The right answer!</summary>
+   Interpolation
   </details>
