@@ -44,8 +44,22 @@
   5- Are browsers able to interpret TypeScript directly (1 point):
    - Yes
    - no
-   <details>
+    <details>
   <summary>The right answer!</summary>
-   TypeScript
+   No
   </details>
   
+  6- Which standards below are part of the WebComponents standard? (2 point):
+   - HTML imports
+   - Dynamic style sheets
+   - The shadow DOM
+   - HTML templates
+   - The virtual DOM
+   - Custom items
+    <details>
+  <summary>The right answer!</summary>
+   - HTML imports
+   - The shadow DOM
+   - HTML templates
+   - Custom items
+  </details>
