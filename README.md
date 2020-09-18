@@ -71,3 +71,12 @@
   <summary>The right answer!</summary>
    Yes
   </details>
+
+  8- What do you call the module at the base of any Angular application? (1 point):
+   - The single module
+   - The original module
+   - The root module
+   <details>
+  <summary>The right answer!</summary>
+   The root module
+  </details>
