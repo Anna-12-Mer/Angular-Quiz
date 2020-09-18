@@ -142,3 +142,43 @@
    It allows to bind a method of a directive to a given event
   </details>
   
+   15- What are the basic pipes available in an Angular application? (1 point):
+   - DatePipe
+   - ColorPipe
+   - CountryPipe
+   - LowerCasePipe
+   - CurrencyPipe
+   <details>
+  <summary>The right answer!</summary>
+   DatePipe - CountryPipe - LowerCasePipe
+  </details>
+  
+   16- What operator is used to intercept all requests to the application? (1 point):
+   -  |
+   -  **
+   -  +
+   -  ?
+   <details>
+  <summary>The right answer!</summary>
+   **
+  </details>
+  
+   17- What types of module exist in an application? (1 point):
+   - Complementary modules
+   - The root module
+   - Functional modules
+   - Source modules
+   <details>
+  <summary>The right answer!</summary>
+   The root module - Functional modules
+  </details>  
+
+   18- What annotation should we decorate our services with? (1 point):
+   - @HostListener
+   - @Injectable
+   - @Directive
+   - @Service
+   <details>
+  <summary>The right answer!</summary>
+   @Injectable
+  </details>  
