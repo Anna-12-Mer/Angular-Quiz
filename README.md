@@ -98,6 +98,7 @@
    - In a specific file, separate from the component.
    - In a special service that only manages the application templates.
    - On a single line, in the annotation of the component.
+   
    <details>
   <summary>The right answer!</summary>
    - On multiple lines via component annotation.
@@ -110,6 +111,7 @@
    - Extrapolation
    - Intra-link
    - Interpolation
+   
    <details>
   <summary>The right answer!</summary>
    Interpolation
@@ -121,9 +123,22 @@
    - Functional modules
    - Attribute directives
    - None of the above!
+   
    <details>
   <summary>The right answer!</summary>
     - Structural directives
     - The components
     - Attribute directives
   </details>
+  
+   14- What is the @HostListener annotation for? (1 point):
+   - It allows our application to be hosted by the Listener host
+   - It allows to bind a method of a directive to a given event
+   - It allows to intercept the interactions of the user in the component
+   - It allows you to tell Angular that a class is a directive
+   
+   <details>
+  <summary>The right answer!</summary>
+   It allows to bind a method of a directive to a given event
+  </details>
+  
