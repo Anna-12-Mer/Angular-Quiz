@@ -6,11 +6,22 @@
    - Components
    - Modules
    - JavaScript
-   # => Components (the right answer!) 
+   <details>
+  <summary>the right answer!</summary>
+  
+  ## Heading
+  => Components
+  </details>
+   # 
   2- Which company is behind Angular?... (1 point):
    - Amazon
    - Facebook
    - Google
    - Apple
    - Microsoft
-   # =>Google (the right answer!) 
+    <details>
+  <summary>the right answer!</summary>
+  
+  ## Heading
+  => Google 
+  </details>
