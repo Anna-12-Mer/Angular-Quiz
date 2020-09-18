@@ -57,9 +57,9 @@
    - The virtual DOM
    - Custom items
     <details>
-      <summary>The right answer!</summary>
+  <summary>The right answer!</summary>
          * HTML imports
          * The shadow DOM
          * HTML templates
          * Custom items
-    </details>
+   </details>
