@@ -2,6 +2,7 @@
 ![Angular](https://loga-engineering.com/wp-content/uploads/2019/10/angular-logo.png)
 
 # 25 questions to test your knowledge of the Google Framework!
+# Beginner ...
   1- Angular is a framework oriented… (1 point): 
    - Components
    - Modules
@@ -79,4 +80,15 @@
    <details>
   <summary>The right answer!</summary>
    The root module
+  </details>
+# Intermediate ... 
+
+  10 - Which of the lists below corresponds to the methods available to interact with the lifecycle of a component, in the chronological order they are called by Angular? (2 point):
+   - ngOnInit - ngAfterViewInit - ngOnChanges - ngOnDestroy
+   - ngDoCheck - ngOnInit - ngOnDestroy - ngOnChanges
+   - ngOnChanges - ngOnInit - ngAfterViewInit - ngOnDestroy
+   - ngOnInit - ngDoCheck - ngAfterViewInit - ngOnChanges
+   <details>
+  <summary>The right answer!</summary>
+   ngOnChanges - ngOnInit - ngAfterViewInit - ngOnDestroy
   </details>
