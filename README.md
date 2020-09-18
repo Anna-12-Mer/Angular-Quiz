@@ -44,7 +44,7 @@
   5- Are browsers able to interpret TypeScript directly (1 point):
    - Yes
    - no
-    <details>
+   <details>
   <summary>The right answer!</summary>
    No
   </details>
@@ -56,18 +56,18 @@
    - HTML templates
    - The virtual DOM
    - Custom items
-       <details>
+   <details>
   <summary>The right answer!</summary>
-         * HTML imports
-         * The shadow DOM
-         * HTML templates
-         * Custom items
-  </details>
+   * HTML imports
+   * The shadow DOM
+   * HTML templates
+   * Custom items
+  </details>   
   
   7- Is it possible to have multiple shadow DOMs on a single web page? (1 point):
    - Yes
    - no
-       <details>
+   <details>
   <summary>The right answer!</summary>
    Yes
   </details>
