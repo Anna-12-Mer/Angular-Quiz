@@ -114,3 +114,16 @@
   <summary>The right answer!</summary>
    Interpolation
   </details>
+  13- Which items below are directives? (1 point):
+   - Structural directives
+   - The components
+   - Pipes
+   - Functional modules
+   - Attribute directives
+   - None of the above!
+   <details>
+  <summary>The right answer!</summary>
+    - Structural directives
+    - The components
+    - Attribute directives
+  </details>
