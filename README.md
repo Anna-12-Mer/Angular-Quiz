@@ -8,15 +8,35 @@
    - JavaScript
    <details>
   <summary>The right answer!</summary>
-  ## => Components
+   Components
   </details>
-  2- Which company is behind Angular?... (1 point):
+  
+  2- Which company is behind Angular... (1 point):
    - Amazon
    - Facebook
    - Google
    - Apple
    - Microsoft
-  <details>
+   <details>
   <summary>The right answer!</summary>
-  # Google 
+   Google 
+  </details>
+  
+  3- What is a transpiling  used for? (2 point): 
+   - Convert your TypeScript code to JavaScript code
+   - Improve the quality of your JavaScript code
+   - Change the behavior of your web page on mobile devices
+   - Convert JavaScript code from ECMAScript 6 standard to ECMAScript 5
+   <details>
+  <summary>The right answer!</summary>
+   Convert JavaScript code from ECMAScript 6 standard to ECMAScript 5 
+  </details>
+  
+  4- What is the recommended language for developing Angular applications? (1 point):
+   - Dart
+   - TypeScript
+   - JavaScript
+   <details>
+  <summary>The right answer!</summary>
+   Convert JavaScript code from ECMAScript 6 standard to ECMAScript 5 
   </details>
