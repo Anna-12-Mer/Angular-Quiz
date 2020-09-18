@@ -1,7 +1,7 @@
 # Angular-Quiz
 ![Angular](https://loga-engineering.com/wp-content/uploads/2019/10/angular-logo.png)
 
-# 25 questions to test your knowledge of the Google Framework!
+# 20 questions to test your knowledge of the Google Framework! => The total score must be at least: 15 points :nerd_face:
 
   1- Angular is a framework oriented… (1 point): 
    - Components
@@ -116,6 +116,7 @@
   <summary>The right answer!</summary>
    Interpolation
   </details>
+  
   13- Which items below are directives? (1 point):
    - Structural directives
    - The components
@@ -156,7 +157,7 @@
    16- What operator is used to intercept all requests to the application? (1 point):
    -  |
    -  **
-   -  +
+   -  \+
    -  ?
    <details>
   <summary>The right answer!</summary>
@@ -173,7 +174,7 @@
    The root module - Functional modules
   </details>  
 
-   18- What annotation should we decorate our services with? (1 point):
+   18- What annotation should we decorate our services with? (2 point):
    - @HostListener
    - @Injectable
    - @Directive
@@ -182,3 +183,27 @@
   <summary>The right answer!</summary>
    @Injectable
   </details>  
+  
+   19- In what situations can Guards be used? (2 point):
+   - To set up an authentication system
+   - To verify data recovery before a redirect
+   - To change the theme of your application
+   - To manage redirects in the app
+   
+   <details>
+  <summary>The right answer!</summary>
+   To set up an authentication system - To manage redirects in the app
+  </details>
+  
+  20- Which library is recommended to implement reactive programming in an Angular application?(2 point)
+   - Bacon.js
+   - ReactiveProgramming
+   - RxJS
+   - Currently, there is no library for reactive programming
+   
+   <details>
+  <summary>The right answer!</summary>
+   RxJS
+  </details>
+  
+  
